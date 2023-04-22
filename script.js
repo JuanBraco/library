@@ -139,20 +139,6 @@ const removeBook = (e) => {
     updateBooksGrid();
 }
 
-const saveLocal = () => {
-    localStorage.setItem('library', JSON.stringify(library.books))
-  }
-  
-  const restoreLocal = () => {
-    const books = JSON.parse(localStorage.getItem('library'))
-    if (books) {
-      library.books = books.map((book) => JSONToBook(book))
-    } else {
-      library.books = []
-    }
-  }
-
-
 addBookBtn.onclick = openAddBookModal;
 addBookForm.onsubmit = addBook;
 overlay.onclick = closeAddBookModal;
