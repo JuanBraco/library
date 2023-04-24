@@ -1,8 +1,10 @@
 # Library Project
 
-A library of book. html/CSS/JS
+Digital library created with HTML, CSS, JS.
 
-Live demo : [Library](https://juanbraco.github.io/library/)
+# Live demo
+
+[Library](https://juanbraco.github.io/library/)
 
 # Usage
 
