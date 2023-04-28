@@ -15,4 +15,4 @@ Then you can mark it as read or unread, and to remove from book-tracking.
 
 # Preview
 
-![Screenshot of a the app - adding a new book.](https://myoctocat.com/assets/images/Add_New_Book.png)
+![Screenshot of a the app - adding a new book.](https://github.com/JuanBraco/library/tree/main/assets/images/Add_New_Book.png)
