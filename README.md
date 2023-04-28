@@ -15,4 +15,8 @@ Then you can mark it as read or unread, and to remove from book-tracking.
 
 # Preview
 
-![Screenshot of a the app - adding a new book.](https://github.com/JuanBraco/library/tree/main/assets/images/Add_New_Book.png)
+![](/assets/images/Add_New_Book.png)
+
+![](/assets/images/Wide_View.png)
+
+![](/assets/images/Height_View.png)
