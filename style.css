@@ -180,6 +180,14 @@ body {
     border-radius: var(--border-radius);
 }
   
+input:invalid {
+    border: 2px dashed red;
+  }
+  
+  input:valid {
+    border: 2px solid black;
+  }
+
 .btn.btn-form-submit {
     background-color: #5750506a;
 }
